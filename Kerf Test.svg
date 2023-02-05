@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="67.402mm"
+   height="44.279999mm"
+   viewBox="0 0 67.402 44.279999"
+   version="1.1"
+   id="svg9102"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="Kerf Test.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9104"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.829812"
+     inkscape:cx="86.347668"
+     inkscape:cy="45.359851"
+     inkscape:window-width="2560"
+     inkscape:window-height="1355"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9102" />
+  <defs
+     id="defs9099" />
+  <g
+     id="g2096-5"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none"
+     transform="translate(36.330796,-3.0399735)"
+     inkscape:label="Kerf adjusted for .18mm">
+    <path
+       style="color:#000000;display:none;fill:none;stroke:#ff0000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       d="M 38.52734,0.04492187 H 50.732422 V 42.955078 H 38.527344 v -8.404297 h -3 v -8.640625 h 3 v -8.820312 h -3 V 8.4492188 h 3 z"
+       transform="translate(-35.801634,3.5742188)"
+       id="path3102" />
+    <path
+       style="color:#000000;display:none;fill:none;stroke:#ff0000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       d="M 50.923824,0.04492187 H 66.138672 V 42.955078 H 50.923828 v -8.314453 h 3 v -8.820313 h -3 v -8.640625 h 3 V 8.359375 h -3 z"
+       transform="translate(-35.801634,3.5742188)"
+       id="path3106" />
+    <path
+       style="color:#000000;display:none;fill:#ff0000;stroke:none;stroke-width:0.1;stroke-dasharray:none"
+       d="M 2.6816409,3.6191409 H 14.976563 V 46.619141 H 2.6816406 V 38.214844 H -0.31835938 V 29.484375 H 2.6816406 V 20.753906 H -0.31835938 V 12.023438 H 2.6816406 Z"
+       id="path3253" />
+    <path
+       style="color:#000000;display:none;fill:#ff0000;stroke:none;stroke-width:0.1;stroke-dasharray:none"
+       d="m 15.066403,3.574219 h 15.304691 v 43 H 15.066406 v -8.404297 h 3 v -8.730469 h -3 v -8.730469 h 3 v -8.730468 h -3 z"
+       id="path3257" />
+    <path
+       style="color:#000000;fill:none;stroke:#ff0000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2.5917969,3.6191407 v 0.044922 0.044922 8.3144533 h -3.00000003 v 8.910156 H 2.5917969 v 8.550781 h -3.00000003 v 8.910156 H 2.5917969 v 8.404297 H 15.066406 V 3.6191407 Z"
+       id="left_outsideCutPath-5-7" />
+    <path
+       style="color:#000000;fill:none;stroke:#ff0000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.066406,3.6191402 v 0.044922 0.044922 8.4941398 h 2.999999 v 8.550782 h -2.999999 v 8.910156 h 2.999999 v 8.550781 h -2.999999 v 8.583984 H 30.55078 V 3.6191402 Z"
+       id="front_outsideCutPath-8-5" />
+  </g>
+  <g
+     id="g2096"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none"
+     transform="translate(0.78081773,5.0033565)"
+     inkscape:label="Original Test">
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-dasharray:none"
+       d="M 2.7983488,-4.4191064 V 3.9858937 H -0.20165107 V 12.715894 H 2.7983488 v 8.73 h -2.99999987 v 8.73 H 2.7983488 v 8.405001 H 15.093348 V -4.4191064 Z"
+       id="left_outsideCutPath-5" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-dasharray:none"
+       d="m 15.193348,-4.4191064 v 8.4049958 h 3 V 12.71589 h -3 v 8.73 h 3 v 8.73 h -3 v 8.405 h 15.305 V -4.4191064 Z"
+       id="front_outsideCutPath-8" />
+  </g>
+</svg>
